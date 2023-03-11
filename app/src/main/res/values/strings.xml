@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Uni</string>
+    <string name="skip_btn">SKIP</string>
+
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <!--Titles-->
+    <string name="first_slide_title">NX Wave.</string>
+    <string name="second_slide_title">1% assured cashback on your spends.</string>
+    <string name="third_slide_title">5x more value than your cashback</string>
+    <string name="fourth_slide_title">Zero Forex Markup.</string>
+
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">The next-gen credit card for those who love rewards.</string>
+    <string name="second_slide_desc">The more you spend, the more you earn.</string>
+    <string name="third_slide_desc">only at the Uni Store.</string>
+    <string name="fourth_slide_desc">Go international, without any fees.</string>
+</resources>
